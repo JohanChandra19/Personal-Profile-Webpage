@@ -10,7 +10,7 @@ HTML5 – Structure of the webpage (index.html)
 
 CSS3 – Styling and layout design (style.css)
 
-JavaScript (Vanilla) – Basic interactivity (script.js)
+JavaScript  – Basic interactivity (script.js)
 
 Text Editor – (e.g., VS Code or Notepad++)
 
